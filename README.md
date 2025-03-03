@@ -9,6 +9,8 @@ This repository contains my implementation of the second home assignment for the
 (a) Elasticity and Scalability in the Context of Cloud Computing for Deep Learning:
 •	Elasticity:
 Elasticity in cloud computing refers to the ability of a system to dynamically adjust its resources (such as processing power, storage, and memory) based on the current demand. In the context of deep learning, elasticity ensures that as computational needs increase (e.g., during model training), the cloud platform can automatically allocate more resources. Similarly, when the demand decreases (e.g., during inference or testing), the system can scale down the resources, ensuring cost-efficiency. This dynamic allocation enables deep learning models to handle variable workloads without manual intervention.
+
+
 •	Scalability:
 Scalability refers to the capability of a system to handle an increasing amount of workload or its potential to be enlarged to accommodate that growth. In deep learning, scalability allows users to expand their compute resources (such as adding more GPUs or CPUs) as the size of the dataset, model complexity, or training duration increases. For example, scaling up enables faster model training, while scaling out (i.e., distributing tasks across multiple machines) can improve parallel processing for large-scale data analysis, thus enhancing the deep learning.
 
